@@ -1,0 +1,8 @@
+-------------------------------------------------------------- PANDAS ------------------------------------------------------------------------------------------------
+np.zeroes().....np.ones().....np.arange() == range in python
+np.linspace(1,50,10)
+np.reshape(3,33).......np.ravel() == flatten
+x.sum(axis=0).....x.T....for i in x.flat:.........x.ndim = no. of dimensions
+np.argmax, np,argmin, np.argsort == gives index, not value.......np.argmax(axis=0)
+np.sqrt(arr)
+np.where(arr > 67) == gives index

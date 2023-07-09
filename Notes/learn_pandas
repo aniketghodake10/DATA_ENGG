@@ -1,0 +1,15 @@
+-------------------------------------------------------------- PANDAS ------------------------------------------------------------------------------------------------
+pd.describe() == mean, std, max, min
+df[column_name][index].....df[:10] == get rows upto 9
+df1 = df2 == view.......df1 = df2.copy()
+df.loc[row].........df.iloc[row].........df.loc[row index, column name].......df.iloc[row integer, column integer].......df.loc[[row1, row2], [col1, col2]]........always use loc to avoid slicing
+df.drop(row or column, axis = 0 or 1).....axis 0 == row, axis1 == column
+df.reset_index(drop=True)
+df.isnull()......df.notnull()
+Add row to pandas.....concat two dataframes......append(dict)....df.loc[row] = [col1, col2....coln]
+Add column to pandas df........df[col] = [row1. row2,....rown]..............df.insert(location, col, [row1. row2,....rown])
+df.replace(x,y)......df.fillna(value
+df.loc[ df[“column_name”] == “some_value”, “column_name”] = “value”)
+df.dropna(how,axis)
+df.drop_dupicates(subset = [col1, col2], keep)
+df[col].value_counts(dropna = True)
