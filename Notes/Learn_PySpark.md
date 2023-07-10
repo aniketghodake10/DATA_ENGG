@@ -88,3 +88,21 @@
 ![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/66fb0bf1-4897-4dd4-a0f0-934fcaeaa787)
 ![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/cb4c4d54-e65f-43e3-a04c-4d96ab81f90c)
 ![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/1d64fcd6-2bfb-4066-a9fa-eaedc61251a8)
+
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+
+<h1 align="center">Utility Commands – DBUtils</h1>
+##DATABRICKS COMMANDS
+
+<br></br>
+<br></br>
+
+Widgets = Parameters for notebook (Just like parameters in BIP Reports)
+
+<br></br>
+<br></br>
+
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/622aa36a-ea71-40cc-979c-f3f67a015b5a)
