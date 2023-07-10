@@ -5,10 +5,10 @@
 <h1 align="center"># REPARTION vs CAOLESCE</h1>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/0f5d76c2-d759-4510-ab93-55394d1666af)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/af7e23ca-8448-4e46-8d66-9f318e903c10)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/e2d40c90-435e-4b0d-8c45-52a4f58afb8e)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/49e0033c-b8bd-4190-8323-f61ca9eeebbf)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/be441277-7316-4fe6-a5c1-eeb94a3f900e)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/70dd4ec5-e8f9-457d-ae44-a785f5d6b512)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/ff501365-739d-4aed-91e2-afa3d9c96411)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/7c476f8f-4fa3-409c-9e8b-243a0234a5b0)
 
 <br></br>
 <br></br>
@@ -17,10 +17,10 @@
 <h1 align="center"># CACHE vs PERSIST</h1>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/28dabec7-daa5-422a-820f-b8e25dc7ada8)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/f16b1d8a-59e7-4235-932d-196dd8d6aa58)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/c3d635a2-87c7-4015-8e94-0d165d9abf33)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/8015b7f9-e5f9-44f4-b356-9af88a1f67ae)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/cdaef5c7-6400-4d04-b01c-1ee3b910b8f4)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/249465ad-ba87-46b4-b56a-c8f5417e7a1c)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/13ab0671-99c7-4e86-8d99-63c2166d9fde)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/e0e81bd5-6b6e-464c-9600-975a4217a37b)
 
 <br></br>
 <br></br>
@@ -29,8 +29,8 @@
 <h1 align="center"># CATALYST OPTIMIZER</h1>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/e727844e-8307-4e59-a8b3-28cb7b9991a5)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/2c6de525-721a-4c0c-97d5-dc3097f2f906)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/a07c1bc2-151f-4a47-aeeb-50632ccc3329)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/6db3d1a0-5b12-4187-a16e-68c882af089b)
 
 <br></br>
 <br></br>
@@ -40,10 +40,10 @@
 <br></br>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/df70c2ee-ebaa-4cb8-add1-728117b62112)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/8e2cc99b-20c8-46ec-93db-6a5de2f4f92a)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/281845b6-81dd-48bb-a8a4-837da563b83d)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/8ec25f48-44d5-4cc3-afa8-0d0bae7c5516)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/71be7802-8535-4696-8d04-870b9b0f4b43)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/01864d1f-75ad-4c49-a780-3fd323de35e9)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/1ba45c8e-b9db-4b38-bfc7-93f7afb6a63e)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/3de6f3b4-2270-44e9-97c4-335e751052b2)
 
 <br></br>
 <br></br>
@@ -52,8 +52,8 @@
 <h1 align="center"># BROADCAST VARIABLE</h1>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/b5870994-0d0f-4713-bf4c-acbd00641f11)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/90e18110-7f32-4594-8b9c-a9672910ed97)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/007ff4b9-8392-4aca-a4cf-aaecba13bee5)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/bcf426bc-5611-42d9-8487-d8a4870a07a0)
 
 <br></br>
 <br></br>
@@ -65,8 +65,8 @@
 <br></br>
 <br></br>
 
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/0825bc82-5b30-430a-aefc-e25cd74f2a82)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/ee506b69-63df-429a-9b4e-0b279b7eec46)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/14e450ef-b753-49d5-9d33-3136751613a6)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/b23d6871-24f4-467c-8793-5768fd10ff63)
-![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/4174aa52-029d-424e-a107-6be97ff96ac4)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/d57730fd-be05-4787-98b1-a7336fb31a09)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/10a10c3e-167f-4fe9-a534-d5cb9542401d)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/4901e29e-9491-4bd2-b8ca-a3c6b8a541e7)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/bf3911e3-09dc-4f7c-90dc-4b6a82cdc68f)
+![image](https://github.com/aniketghodake10/DATA_ENGG/assets/38704659/1e9ad522-842f-419f-ae28-d65ec64355f2)
